@@ -1,0 +1,31 @@
+user_id,risk_profile,age,monthly_income,city,account_age_days,credit_limit,app_sessions_per_week,kyc_verified,total_transactions,failed_payments_count,on_time_payment_pct,avg_spend_30d_inr,max_single_txn_inr,distinct_categories_used,pay_later_usage_count,risk_score,credit_decision,approved_credit_limit_inr,decision_reason
+USR00001,low,37,15000,Delhi,1707,48731,4,1,33,1,90.91,1028.75,1886.68,10,1,652,Approved,38338,Approved based on 90.91% on-time payment history and stable spending
+USR00002,high,29,60000,Hyderabad,510,4796,9,1,26,4,84.62,6404.42,16772.44,10,18,381,Rejected,0,"Rejected: High default risk, 4 failed payments, score 381"
+USR00003,medium,53,25000,Pune,1716,16595,13,1,27,2,92.59,2134.51,6261.89,10,9,704,Approved,77913,Approved based on 92.59% on-time payment history and stable spending
+USR00004,medium,40,90000,Pune,143,17871,14,1,46,2,91.3,7678.58,24278.25,10,23,567,Review,12650,"Under review: 2 failed payments, moderate risk score 567"
+USR00005,low,33,40000,Delhi,778,98229,10,1,40,2,90.0,2705.64,9620.39,10,12,803,Approved,56665,Approved based on 90.0% on-time payment history and stable spending
+USR00006,low,48,60000,Kolkata,1631,69815,6,1,23,1,91.3,3425.02,8575.28,9,6,695,Approved,35562,Approved based on 91.3% on-time payment history and stable spending
+USR00007,low,49,150000,Chennai,390,62092,16,1,24,0,95.83,12076.98,56809.06,9,7,665,Approved,51128,Approved based on 95.83% on-time payment history and stable spending
+USR00008,high,33,60000,Chennai,370,5888,6,1,30,9,63.33,5705.9,23640.66,10,22,288,Rejected,0,"Rejected: High default risk, 9 failed payments, score 288"
+USR00009,medium,55,90000,Pune,799,11588,17,1,29,3,89.66,8163.52,25835.18,9,12,639,Approved,51706,Approved based on 89.66% on-time payment history and stable spending
+USR00010,medium,26,40000,Chennai,790,8311,10,1,23,0,100.0,4622.78,11942.63,9,13,646,Approved,63020,Approved based on 100.0% on-time payment history and stable spending
+USR00011,low,38,40000,Mumbai,998,57861,18,1,27,2,85.19,2307.27,5459.0,10,6,850,Approved,81567,Approved based on 85.19% on-time payment history and stable spending
+USR00012,high,25,25000,Pune,478,2316,27,1,30,8,70.0,4911.79,9462.44,10,21,248,Rejected,0,"Rejected: High default risk, 8 failed payments, score 248"
+USR00013,medium,45,25000,Pune,864,5987,22,1,17,3,82.35,2205.78,4226.53,7,10,599,Review,19541,"Under review: 3 failed payments, moderate risk score 599"
+USR00014,low,22,40000,Hyderabad,1233,30258,18,1,26,1,96.15,2271.18,8298.79,10,7,649,Approved,46967,Approved based on 96.15% on-time payment history and stable spending
+USR00015,low,30,40000,Chennai,1755,77775,3,1,17,2,82.35,2208.89,3729.4,10,7,724,Approved,48066,Approved based on 82.35% on-time payment history and stable spending
+USR00016,low,50,40000,Kolkata,1460,25469,20,1,30,1,96.67,1919.28,6323.74,9,13,768,Approved,65250,Approved based on 96.67% on-time payment history and stable spending
+USR00017,low,25,40000,Pune,1719,48854,27,1,28,3,89.29,2388.23,5090.87,10,8,852,Approved,76231,Approved based on 89.29% on-time payment history and stable spending
+USR00018,medium,53,90000,Kolkata,1249,18146,21,1,41,1,97.56,8144.8,22265.84,10,16,479,Review,18303,"Under review: 1 failed payments, moderate risk score 479"
+USR00019,low,21,40000,Mumbai,1519,96256,25,1,33,0,96.97,2187.46,4954.63,10,9,680,Approved,51261,Approved based on 96.97% on-time payment history and stable spending
+USR00020,low,38,60000,Hyderabad,340,53937,28,1,29,0,100.0,4989.29,17123.17,9,14,695,Approved,78461,Approved based on 100.0% on-time payment history and stable spending
+USR00021,medium,52,60000,Delhi,291,25125,15,1,29,4,86.21,6712.37,11790.73,8,13,459,Review,15437,"Under review: 4 failed payments, moderate risk score 459"
+USR00022,low,31,150000,Kolkata,1472,70288,15,1,30,2,86.67,6691.52,21349.57,9,10,787,Approved,64077,Approved based on 86.67% on-time payment history and stable spending
+USR00023,low,41,60000,Pune,435,45051,4,1,37,1,97.3,4132.47,14646.09,10,17,722,Approved,80628,Approved based on 97.3% on-time payment history and stable spending
+USR00024,low,46,60000,Mumbai,172,47386,29,1,25,1,92.0,3904.0,8171.63,10,9,682,Approved,57678,Approved based on 92.0% on-time payment history and stable spending
+USR00025,low,45,150000,Bengaluru,371,95054,27,0,35,1,91.43,12676.82,26360.04,9,18,730,Approved,51888,Approved based on 91.43% on-time payment history and stable spending
+USR00026,medium,42,90000,Mumbai,1369,27190,9,1,24,4,79.17,10925.09,43514.74,9,11,614,Approved,34273,Approved based on 79.17% on-time payment history and stable spending
+USR00027,low,47,25000,Mumbai,1154,53787,27,1,23,0,100.0,1525.66,3350.82,9,2,799,Approved,78155,Approved based on 100.0% on-time payment history and stable spending
+USR00028,medium,33,40000,Hyderabad,273,28377,26,1,27,0,100.0,3304.89,8396.6,9,16,532,Review,11754,"Under review: 0 failed payments, moderate risk score 532"
+USR00029,medium,53,40000,Delhi,519,18969,19,1,40,2,95.0,4001.25,25671.23,10,23,536,Review,9232,"Under review: 2 failed payments, moderate risk score 536"
+USR00030,low,54,15000,Bengaluru,41,97984,24,1,34,2,91.18,733.51,2007.75,10,2,671,Approved,63541,Approved based on 91.18% on-time payment history and stable spending

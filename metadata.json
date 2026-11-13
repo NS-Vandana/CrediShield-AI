@@ -1,0 +1,6 @@
+{
+  "name": "CrediShield AI: Real-Time Retail Risk Engine",
+  "description": "A high-performance credit engine for retail fintech, processing transactions in real-time to predict scores and generate AI-driven credit decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Decision Explanations", "Real-time Transaction Streaming", "Credit Feature Store"]
+}
